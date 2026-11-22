@@ -1,6 +1,6 @@
 # Welcome to my practice site
 
-Hi, I'm learning GitHub Pages and CI/CD as part of my DevOps journey.
+Hi, I'm learning {{ site.title }}.
 
 ## What I'm learning
 - GitHub basics: branches, commits and pull requests
